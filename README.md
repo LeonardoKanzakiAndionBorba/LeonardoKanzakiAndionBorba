@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leonardo Kanzaki 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leokanzaki_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1731880587)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://criarmeulink.com.br/u/1731880587](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Github&to=contato.leonardokanzaki@gmail.com&body=Olá!+Vim+por+meio+do+Github.))
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-kanzaki-963b24338/)
 
 ## Tecnologias do meu dia a dia:
