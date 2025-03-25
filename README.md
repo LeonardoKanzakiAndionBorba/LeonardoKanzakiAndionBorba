@@ -15,6 +15,5 @@
 
 </div><br/>
 
-Sou Leonardo Kanzaki Andion Borba, tenho 18 anos e curso Técnico em Informática no Instituto Federal do Paraná (IFPR), com previsão de conclusão em 2025. Possuo conhecimento em programação, desenvolvimento de sistemas e gerenciamento de tecnologias, buscando constantemente ampliar minhas habilidades técnicas e contribuir para ambientes inovadores e colaborativos.
 
 ___
