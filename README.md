@@ -13,7 +13,6 @@
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+</div><br/>
 
 Possuo conhecimento em programação, desenvolvimento de sistemas e gerenciamento de tecnologias, buscando constantemente ampliar minhas habilidades técnicas e contribuir para ambientes inovadores e colaborativos.
-
-</div><br/>
